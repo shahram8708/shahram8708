@@ -16,6 +16,30 @@ In addition to AI/ML, I am also an enthusiastic web developer. My skills in web 
 - 🎨 **CSS**: Styling responsive and visually appealing designs.
 - ⚙️ **JavaScript**: Adding interactivity and dynamic features to web applications.
 
+# Skills
+
+## AI/ML
+
+- 🤖 Machine Learning Algorithms
+- 🧠 Deep Learning (Neural Networks, CNNs, RNNs, LSTMs)
+- 📚 Natural Language Processing (NLP)
+- 📊 Data Processing & Analysis
+- 🛠️ TensorFlow, Keras, PyTorch
+- 📓 Jupyter Notebooks
+- 🖼️ Computer Vision (Image Classification, Object Detection)
+- 🎮 Reinforcement Learning
+- ⚙️ Optimization Techniques
+- 🚀 Model Deployment (Flask, Docker)
+- 📈 Time Series Analysis, Anomaly Detection
+
+## Web Development
+
+- 🌐 HTML
+- 🎨 CSS
+- 🚀 JavaScript
+- 🅱️ Bootstrap, jQuery
+- 📜 Git, GitHub
+
 ## 📂 Projects
 I have worked on several projects that showcase my skills and creativity. You can explore my all projects through the links below:
 
