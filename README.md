@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Shah+Rampravesh+%F0%9F%91%8B;Backend+%26+Generative+AI+Engineer;Building+AI+Systems+That+Actually+Ship;LLMs+%7C+FastAPI+%7C+PostgreSQL+%7C+React;Researcher+%7C+Hackathon+Winner+%7C+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Shah+Ram+%F0%9F%91%8B;Backend+%26+Generative+AI+Engineer;Building+AI+Systems+That+Actually+Ship;LLMs+%7C+FastAPI+%7C+PostgreSQL+%7C+React;Researcher+%7C+Hackathon+Winner+%7C+Builder" alt="Typing SVG" />
 
 <br/>
 
