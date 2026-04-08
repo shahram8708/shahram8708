@@ -125,12 +125,12 @@ Beyond the code, I'm actively researching edge-deployable Transformers for predi
 
 <div align="center">
 
-<a href="https://github.com/shahram8708">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahram8708&repo=AI-Based-Signature-Verification-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&icon_color=FF6C37" />
+<a href="https://github.com/shahram8708/AI-Based-Signature-Verification-System">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shahram8708&repo=AI-Based-Signature-Verification-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&icon_color=FF6C37" />
 </a>
 &nbsp;
-<a href="https://github.com/shahram8708">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahram8708&repo=Stable-Diffusion-Image-Generator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&icon_color=FF6C37" />
+<a href="https://github.com/shahram8708/Stable-Diffusion-Image-Generator">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shahram8708&repo=Stable-Diffusion-Image-Generator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&icon_color=FF6C37" />
 </a>
 
 </div>
