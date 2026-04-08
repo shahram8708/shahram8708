@@ -101,10 +101,9 @@ Beyond the code, I'm actively researching edge-deployable Transformers for predi
 
 <p align="center">
   <a href="https://github.com/shahram8708">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahram8708&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/shahram8708">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahram8708&layout=compact&theme=tokyonight&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shahram8708&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shahram8708&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" />
   </a>
 </p>
 
