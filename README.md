@@ -25,24 +25,24 @@
 
 ## 🧠 About Me
 
-I'm a final-year B.E. student and software engineer who builds things that work in production — not just on localhost. Over the past year, I've shipped LLM-powered platforms at real companies, architected AI invoice intelligence systems, and led the end-to-end development of a hackathon management platform used by 100+ participants. My work sits at the intersection of scalable backend engineering and applied Generative AI, and I genuinely care about the gap between "AI demo" and "AI product."
+I'm a final-year B.E. student and software engineer who builds things that work in production - not just on localhost. Over the past year, I've shipped LLM-powered platforms at real companies, architected AI invoice intelligence systems, and led the end-to-end development of a hackathon management platform used by 100+ participants. My work sits at the intersection of scalable backend engineering and applied Generative AI, and I genuinely care about the gap between "AI demo" and "AI product."
 
-Beyond the code, I'm actively researching edge-deployable Transformers for predictive maintenance (EdgeFormer PM) and Brain Tumor MRI classification hitting 98% accuracy — both under publication. I've won Smart India Hackathon and multiple national competitions, and I'm building toward founding something of my own. If you're working on something ambitious, I'm probably interested.
+Beyond the code, I'm actively researching edge-deployable Transformers for predictive maintenance (EdgeFormer PM) and Brain Tumor MRI classification hitting 98% accuracy - both under publication. I've won Smart India Hackathon and multiple national competitions, and I'm building toward founding something of my own. If you're working on something ambitious, I'm probably interested.
 
 ---
 
 ## 📡 What's Going On Right Now
 
 ```yaml
-🔭  Currently Building : PathMap — intelligent hierarchical data processing system
+🔭  Currently Building : PathMap - intelligent hierarchical data processing system
 🌱  Currently Researching : EdgeFormer PM (cross-sensor attention Transformer for Edge IIoT)
 🧪  Exploring : Advanced RAG pipelines, LangChain agents, and VLSI/EDA ML integration
-🏆  Recent Win : Smart India Hackathon (SIH) & SSIP Hackathon — National Finalist/Winner
+🏆  Recent Win : Smart India Hackathon (SIH) & SSIP Hackathon - National Finalist/Winner
 👯  Open To Collaborate On : AI-powered SaaS tools, backend-heavy projects, research papers
 💬  Ask Me About : FastAPI/Flask backends · LLM prompt engineering · PostgreSQL schemas
 📫  Reach Me At : shahram8708@gmail.com  |  linkedin.com/in/shah-ram-0682a7284
 ⚡  Fun Fact : I have a patent in progress for an AI exam evaluation platform with
-              anti-cheat monitoring — because apparently, even exams needed disrupting.
+              anti-cheat monitoring - because apparently, even exams needed disrupting.
 ```
 
 ---
@@ -140,7 +140,7 @@ Beyond the code, I'm actively researching edge-deployable Transformers for predi
 | Project | What It Does | Stack | Impact |
 |--------|-------------|-------|--------|
 | **Devora** | AI-powered hackathon management platform with automated judging & real-time analytics | Python · Flask · React · PostgreSQL · GenAI | Supported 100+ users · Reduced judging time ~40% |
-| **Finvela** | Invoice intelligence — automated extraction, compliance check, risk analysis | Python · Flask · GenAI · PostgreSQL | +35% accuracy · Major drop in manual review effort |
+| **Finvela** | Invoice intelligence - automated extraction, compliance check, risk analysis | Python · Flask · GenAI · PostgreSQL | +35% accuracy · Major drop in manual review effort |
 | **Clinker India** | Mathematical optimization engine for manufacturing cost minimization | Python · Optimization · PostgreSQL | Up to 30% cost reduction across multi-unit operations |
 | **PathMap** | Hierarchical path-based data processing & retrieval system | Python · Backend Systems · GenAI · PostgreSQL | Improved data access speed & system performance |
 
@@ -149,15 +149,15 @@ Beyond the code, I'm actively researching edge-deployable Transformers for predi
 ## 🔬 Research & Patents
 
 ```
-📄 EdgeFormer PM — Cross-sensor attention Transformer for real-time predictive
+📄 EdgeFormer PM - Cross-sensor attention Transformer for real-time predictive
    maintenance on Edge IIoT systems. [Under Publication]
 
-🧠 Brain Tumor MRI Classification — 98% model accuracy using Deep Learning.
+🧠 Brain Tumor MRI Classification - 98% model accuracy using Deep Learning.
    [Under Publication]
 
-⚡ ML-Based Parasitic Estimation — Custom circuit design in VLSI/EDA domain.
+⚡ ML-Based Parasitic Estimation - Custom circuit design in VLSI/EDA domain.
 
-📋 Patent (In Process) — Intelligent multi-modal examination evaluation platform
+📋 Patent (In Process) - Intelligent multi-modal examination evaluation platform
    with AVCEE (Adaptive Visual Cognitive Evaluation Engine): automated
    handwritten, OMR, and real-time digital exam assessment with
    anti-cheat monitoring and full auditability.
@@ -171,9 +171,9 @@ Beyond the code, I'm actively researching edge-deployable Transformers for predi
 
 | 🥇 Hackathons | 💻 Competitive Programming | 🎓 Leadership |
 |:---:|:---:|:---:|
-| Winner — Smart India Hackathon (SIH) | LeetCode: 52+ problems · 169 pts | Core Member, Entrepreneurship Cell |
-| Winner — SSIP Hackathon | HackerRank: 97+ problems · 2,201 pts | Leading 4 active SSIP projects |
-| Multiple National & International Wins | — | Building early-stage startup |
+| Winner - Smart India Hackathon (SIH) | LeetCode: 52+ problems · 169 pts | Core Member, Entrepreneurship Cell |
+| Winner - SSIP Hackathon | HackerRank: 97+ problems · 2,201 pts | Leading 4 active SSIP projects |
+| Multiple National & International Wins | - | Building early-stage startup |
 
 </div>
 
@@ -181,26 +181,26 @@ Beyond the code, I'm actively researching edge-deployable Transformers for predi
 
 ## 📜 Certifications
 
-- ✅ Python — Coursera / Udemy
-- ✅ Machine Learning — Coursera / Udemy
-- ✅ Deep Learning — Coursera / Udemy
-- ✅ Generative AI — Coursera / Udemy
+- ✅ Python - Coursera / Udemy
+- ✅ Machine Learning - Coursera / Udemy
+- ✅ Deep Learning - Coursera / Udemy
+- ✅ Generative AI - Coursera / Udemy
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Engineering (B.E.)** — Vishwakarma Government Engineering College (VGEC), Ahmedabad
+**Bachelor of Engineering (B.E.)** - Vishwakarma Government Engineering College (VGEC), Ahmedabad
 `2023 – 2027` | CGPA: **7.50 / 10**
 
 ---
 
 ## 💼 Work Experience
 
-**Munsow Technologies** — *Generative AI Intern* · Ahmedabad `Jul 2024 – Dec 2024`
+**Munsow Technologies** - *Generative AI Intern* · Ahmedabad `Jul 2024 – Dec 2024`
 > Built and deployed multiple LLM-based features with structured prompt workflows → **+40% data processing efficiency · +30% AI output quality**
 
-**Pinatro** — *Backend Development Intern* · Ahmedabad `Feb 2024 – Jun 2024`
+**Pinatro** - *Backend Development Intern* · Ahmedabad `Feb 2024 – Jun 2024`
 > Built 10+ REST APIs and optimized PostgreSQL schemas → **−20% integration effort · +40% query performance & reliability**
 
 ---
